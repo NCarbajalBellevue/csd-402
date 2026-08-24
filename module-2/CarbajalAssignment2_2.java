@@ -10,7 +10,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class RockPaperScissors {
+public class CarbajalAssignment2_2 {
 
     public static void main(String[] args) {
 
